@@ -1,0 +1,22 @@
+{
+    "name": "SerialComm",
+    "version": "0.0.1",
+    "description": "A library to facilitate fast transfer from and to a host device via the serial connection.",
+    "keywords": "arduino serial",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/billtubbs/SerialComm.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Bill Tubbs",
+        "email": "bill.tubbs@me.com",
+        "url": "https://www.basicmachines.com"
+      }
+    ],
+    "license": "MIT",
+    "frameworks": "*",
+    "platforms": "*"
+  }
